@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharsuthar1256
-- 👀 I’m interested in creating cool SAAS proucts
+- 👀 I’m interested in creating cool SAAS products
 - 🌱 I’m currently learning Bcakend in Node.JS
 - 💞️ I’m looking to collaborate on open source project and offlines hackathons
 - 📫 email - tusharsuthar081@gmail.com
