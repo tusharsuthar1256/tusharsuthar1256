@@ -21,23 +21,53 @@ In addition to personal growth, I'm excited to contribute to open-source project
 <img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="cpp" width="35px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+
 
 <br clear="left" />
 
-## Technologies  :
-
-<h3>Frontend Technologies -></h3>
+## Frontend Technologies  :
 
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
-<img align="left" alt="cpp" width="35px" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" />
 <img align="left" alt="cpp" width="35px" src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="cpp" width="35px" src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" />
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
+
+<br clear="left" />
 
 
+## Backend Technologies : 
+
+<img align="left" alt="cpp" width="35px" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" />
+<img align="left" alt="cpp" width="35px"  src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" />
+<img align="left" alt="cpp" width="35px"  src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
+
+<br clear="left" />
+
+## Databases : 
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
+
+<br clear="left" />
+
+## Backend-as-a-Service (BaaS) : 
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Appwrite.svg" />
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+
+<br clear="left"/>
+
+## Design Tools
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Adobe-XD.svg" />
+
+<br clear="left" />
+
+## Other Tools
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
+<img align="left" alt="cpp" width="35px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
 
 
 <!---
