@@ -5,7 +5,10 @@
 
 ## Hi there! Tushar here
 
-- 👋 Hi, I’m @tusharsuthar1256
+I'm a budding Full-Stack MERN Developer with a strong foundation in frontend development and an enthusiastic approach to learning backend technologies. My passion lies in building software that genuinely enhances people's lives, and I'm particularly interested in developing SaaS products that solve real-world problems. Currently, I'm on a journey to deepen my backend development skills to become a more versatile developer.
+
+In addition to personal growth, I'm excited to contribute to open-source projects, as I believe in the value of collaborative learning and giving back to the developer community. I also enjoy working in groups with like-minded tech enthusiasts, as it brings fresh ideas and perspectives that elevate our projects. My goal is to continually grow, learn, and contribute to impactful projects that make a difference.
+
 - 👀 I’m interested in creating cool SAAS products
 - 🌱 I’m currently learning Bcakend in Node.JS
 - 💞️ I’m looking to collaborate on open source project and offlines hackathons
