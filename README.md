@@ -21,6 +21,18 @@ In addition to personal growth, I'm excited to contribute to open-source project
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
+<br clear="left" />
+
+## Technologies  :
+
+<img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
+<img align="left" alt="cpp" width="35px" src="https://nodejs.org/static/logos/nodejsStackedLight.svg" />
+<img align="left" alt="cpp" width="35px" src="" />
+<img align="left" alt="cpp" width="35px" src="" />
+<img align="left" alt="cpp" width="35px" src="" />
+
+
 
 
 <!---
