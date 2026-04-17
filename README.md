@@ -24,7 +24,6 @@ In addition to personal growth, I'm excited to contribute to open-source project
 
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
-<img align="left" alt="cpp" width="35px" src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="cpp" width="35px" src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" />
